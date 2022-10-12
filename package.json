@@ -1,0 +1,10 @@
+{
+    "name": "repro",
+    "version": "0.0.1",
+    "dependencies": {
+        "spook.js": "0.0.1"
+    },
+    "devDependencies": {
+        "markdown-nice": "1.8.11"
+    }
+}
